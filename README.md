@@ -42,8 +42,6 @@ The project concludes that the future of digital advertising lies in personalize
 ### Global Operational Hub
 ![Global Operational Hub](Global%20Operational%20Hub.png)
 
-### Mobile Lock Screen Content Consumption
-![Mobile Lock Screen Content Consumption](Mobile%20Lock%20Screen%20Content%20Con....png)
 
 ## Author
 **Ancilla Fiona Dsouza**
