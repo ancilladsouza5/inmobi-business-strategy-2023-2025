@@ -28,11 +28,22 @@ The project concludes that the future of digital advertising lies in personalize
 
 ## Business Model Canvas
 
-![Business Model Canvas](Business%20Model%20Canvas%20-%20InMobi.png)
+![Business Model Canvas](Business%20Model%20Canva%20-%20InMobi.png)
 
 ## AIDA Model
 
 ![AIDA Model](Aida%20Model%20-%20InMobi.png)
 
+## Key Visualizations
+
+### Glance Lock Screen Performance
+![Glance Lock Screen Performance](Glance%20Lock%20Screen%20Ad%20Perf.png)
+
+### Global Operational Hub
+![Global Operational Hub](Global%20Operational%20Hub.png)
+
+### Mobile Lock Screen Content Consumption
+![Mobile Lock Screen Content Consumption](Mobile%20Lock%20Screen%20Content%20Con....png)
+
 ## Author
-Ancilla Fiona Dsouza
+**Ancilla Fiona Dsouza**
